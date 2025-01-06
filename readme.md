@@ -2,7 +2,7 @@
 ## Surface -> A Canvas GUI Framework  
 
   - Single DOM element! `<canvas>`
-  - MVVM with Event-Aggregation
+  - MVVM Decoupled via Event-Aggregation
   - Ultra-fine-grained reactivity! `signals-aggregator`
   - Zero external dependencies -- none - nada
   - Pure vanilla HTML, CSS, javescript
